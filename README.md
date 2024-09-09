@@ -1,5 +1,3 @@
-## **README.md Descontraído para o seu Projeto**
-
 ### **Busca de Atletas: Encontre seu ídolo olímpico!** 
 
 **O que faz essa aplicação?**
